@@ -14,13 +14,13 @@ _Asegúrate de tener [Node.js](https://nodejs.org/) instalado en tu máquina._
 
 _Clona el proyecto_
 ```
-git clone https://github.com/kstephantorres/m3-tp1-p01.git
+git clone https://github.com/kstephantorres/m3-tp1-p02.git
 ``` 
 
 _Instala las dependencias_
 
 ```
-cd m3-tp1-p01
+cd m3-tp1-p02
 npm install
 ```
 
@@ -31,7 +31,7 @@ npm run dev
 
 ## Despliegue 📦
 
-_[Deploy en Netlify](https://m3-tp1-p1.netlify.app/)_
+_[Deploy en Netlify](https://m3-tp1-p2.netlify.app/)_
 
 ## Autor ✒️
 
